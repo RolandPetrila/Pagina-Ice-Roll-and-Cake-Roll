@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://github.com/RolandPetrila/Pagina-Ice-Roll-and-Cake-Roll/sitemap.xml
